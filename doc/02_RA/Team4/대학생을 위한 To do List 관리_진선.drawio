@@ -44,9 +44,6 @@
         <mxCell id="QbLjZGvhFdgdJ97sdlxq-9" value="정렬가능" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="710" y="390" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.909;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QbLjZGvhFdgdJ97sdlxq-1" target="QbLjZGvhFdgdJ97sdlxq-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
