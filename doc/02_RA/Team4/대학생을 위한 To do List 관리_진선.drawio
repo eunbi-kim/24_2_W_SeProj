@@ -1,14 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="페이지-1" id="zLDG6PGTuD3OFIEH7AD8">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EN1RqwOB0s-N4DpJ5f6v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAZ7BS8OIwkYzedntqdI-1" target="QbLjZGvhFdgdJ97sdlxq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QbLjZGvhFdgdJ97sdlxq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAZ7BS8OIwkYzedntqdI-1" target="QbLjZGvhFdgdJ97sdlxq-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hAZ7BS8OIwkYzedntqdI-1" value="학생" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="60" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="140" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QbLjZGvhFdgdJ97sdlxq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAZ7BS8OIwkYzedntqdI-2" target="QbLjZGvhFdgdJ97sdlxq-29">
           <mxGeometry relative="1" as="geometry" />
@@ -19,43 +22,46 @@
         <mxCell id="yUfuFuD09PTQG4UZW8ii-1" value="수강과목등록" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="320" y="60" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-1" value="숨기기" style="html=1;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-1" value="숨기기" style="html=1;whiteSpace=wrap;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="700" y="185" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-2" value="보이기" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-2" value="보이기" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="700" y="130" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-3" value="수정" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-3" value="수정" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="560" y="170" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QbLjZGvhFdgdJ97sdlxq-4" target="QbLjZGvhFdgdJ97sdlxq-22">
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QbLjZGvhFdgdJ97sdlxq-4" target="QbLjZGvhFdgdJ97sdlxq-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-4" value="중요도 체크 가능" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-4" value="중요도 체크 가능" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="700" y="240" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-7" value="로그인" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="700" y="20" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-9" value="정렬가능" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="700" y="290" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-16" value="3번" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="640" y="90" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-20" value="4번" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="840" y="240" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-22" value="To Do 항목" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="470" y="340" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.897;entryY=0.246;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QbLjZGvhFdgdJ97sdlxq-9" target="QbLjZGvhFdgdJ97sdlxq-22">
+        <mxCell id="EN1RqwOB0s-N4DpJ5f6v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbLjZGvhFdgdJ97sdlxq-7" target="QbLjZGvhFdgdJ97sdlxq-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-25" value="과목별 To doList 시스템" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=160;height=35;" vertex="1" parent="1">
-          <mxGeometry x="190" y="5" width="640" height="495" as="geometry" />
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-7" value="로그인" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="900" y="165" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-29" value="과목 리스트 조회" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-9" value="정렬가능" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="700" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-16" value="3번" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="640" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-20" value="4번" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="840" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-22" value="To Do 항목" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="470" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.897;entryY=0.246;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QbLjZGvhFdgdJ97sdlxq-9" target="QbLjZGvhFdgdJ97sdlxq-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-25" value="과목별 To doList 시스템" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=160;height=35;" parent="1" vertex="1">
+          <mxGeometry x="150" y="12.5" width="890" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-29" value="과목 리스트 조회" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="260" y="350" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
