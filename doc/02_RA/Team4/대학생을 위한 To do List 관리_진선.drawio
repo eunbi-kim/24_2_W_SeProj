@@ -38,7 +38,7 @@
           <mxGeometry x="260" y="350" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="22ACAWzlT_3zaiU07irZ-1" value="수정" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="100" width="140" height="70" as="geometry" />
+          <mxGeometry x="460" y="155" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="22ACAWzlT_3zaiU07irZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="22ACAWzlT_3zaiU07irZ-2" target="QbLjZGvhFdgdJ97sdlxq-22">
           <mxGeometry relative="1" as="geometry" />
@@ -59,6 +59,18 @@
         </mxCell>
         <mxCell id="22ACAWzlT_3zaiU07irZ-6" value="정렬가능" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="325" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="22ACAWzlT_3zaiU07irZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="22ACAWzlT_3zaiU07irZ-11" target="22ACAWzlT_3zaiU07irZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22ACAWzlT_3zaiU07irZ-11" value="추가" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="95" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="22ACAWzlT_3zaiU07irZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="22ACAWzlT_3zaiU07irZ-12" target="22ACAWzlT_3zaiU07irZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22ACAWzlT_3zaiU07irZ-12" value="삭제" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
