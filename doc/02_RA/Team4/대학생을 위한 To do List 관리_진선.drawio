@@ -13,11 +13,23 @@
         <mxCell id="yUfuFuD09PTQG4UZW8ii-1" value="수강과목등록" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="340" y="130" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vlxqtFhFFTPsDl8hsr5g-1" value="To Do List" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="vlxqtFhFFTPsDl8hsr5g-1" value="To Do List" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="540" y="130" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vlxqtFhFFTPsDl8hsr5g-2" value="ToDo 등록" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="550" y="210" width="110" height="40" as="geometry" />
+        <mxCell id="vlxqtFhFFTPsDl8hsr5g-2" value="ToDo 등록" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="539" y="224" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-1" value="숨기기" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-2" value="보이기" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="224" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-3" value="수정" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLjZGvhFdgdJ97sdlxq-4" value="삭제" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="700" y="400" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
