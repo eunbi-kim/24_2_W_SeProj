@@ -16,6 +16,9 @@
         <mxCell id="hAZ7BS8OIwkYzedntqdI-4" value="수강과목등록" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="440" y="125" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="hAZ7BS8OIwkYzedntqdI-5" value="수강과목등록" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
