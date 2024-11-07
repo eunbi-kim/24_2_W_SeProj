@@ -46,9 +46,6 @@
         <mxCell id="QbLjZGvhFdgdJ97sdlxq-9" value="정렬가능" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="700" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QbLjZGvhFdgdJ97sdlxq-16" value="3번" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="640" y="90" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="QbLjZGvhFdgdJ97sdlxq-20" value="4번" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="840" y="240" width="60" height="30" as="geometry" />
         </mxCell>
