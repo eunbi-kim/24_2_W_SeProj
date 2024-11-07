@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="페이지-1" id="hXn3ez5PrBHBoCTHGb-N">
-    <mxGraphModel dx="1500" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,9 +22,6 @@
         <mxCell id="JOlXU6-3wr15zM9Gxf06-6" value="학사 정보 시스템&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="470" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JOlXU6-3wr15zM9Gxf06-9" value="수강하는 과제&lt;br&gt;등록하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-530" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="JOlXU6-3wr15zM9Gxf06-10" value="To Do 등록하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="140" height="70" as="geometry" />
         </mxCell>
@@ -42,30 +39,6 @@
             <mxPoint x="380" y="320" as="sourcePoint" />
             <mxPoint x="530" y="367" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JOlXU6-3wr15zM9Gxf06-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JOlXU6-3wr15zM9Gxf06-16" target="JOlXU6-3wr15zM9Gxf06-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JOlXU6-3wr15zM9Gxf06-16" value="과목 명 둥록하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-580" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JOlXU6-3wr15zM9Gxf06-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JOlXU6-3wr15zM9Gxf06-18" target="JOlXU6-3wr15zM9Gxf06-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JOlXU6-3wr15zM9Gxf06-18" value="담당교수 등록하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-540" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JOlXU6-3wr15zM9Gxf06-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JOlXU6-3wr15zM9Gxf06-19" target="JOlXU6-3wr15zM9Gxf06-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JOlXU6-3wr15zM9Gxf06-19" value="강의 요일/ 시간 등록하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-500" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JOlXU6-3wr15zM9Gxf06-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JOlXU6-3wr15zM9Gxf06-20" target="JOlXU6-3wr15zM9Gxf06-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JOlXU6-3wr15zM9Gxf06-20" value="수강 년도 / 학기 등록하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-450" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JOlXU6-3wr15zM9Gxf06-34" value="Todo 항목명 등록하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="295" width="140" height="40" as="geometry" />
