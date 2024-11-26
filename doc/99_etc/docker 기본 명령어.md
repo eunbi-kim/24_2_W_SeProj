@@ -65,7 +65,8 @@ docker stop cfbb33 #nginx-1 container id로 컨테이너 종료
 
 ## Docker run 
 컨테이너 생성 및 실행 
-```docker run [옵션] [이미지 이름]
+```
+docker run [옵션] [이미지 이름]
 ```
 - docker run을 수행할 경우, docker create > docker start 를 수행한 것과 같음
 
