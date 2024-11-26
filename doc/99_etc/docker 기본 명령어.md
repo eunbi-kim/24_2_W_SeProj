@@ -3,10 +3,14 @@
 ## Docker pull
 Docker Hub에서 이미지 다운로드 하여 이미지 생성 (Build)
 - Docker Hub에서 이미지 검색
-`docker search [이미지 이름]`
+```
+docker search [이미지 이름]
+```
 
 - 이미지 다운로드
-`docker image pull [이미지 이름]`
+```
+docker image pull [이미지 이름]
+```
 
 ```
 docker search nginx #nginx 이미지 Docker hub에서 검섹
@@ -14,11 +18,15 @@ docker image pull nginx #nginx 이미지 Docker hub에서 다운로드
 ```
 
 - 로컬에 다운로드된 이미지 리스트 보기 
-`docker image ls`
----
+```
+docker image ls
+```
+
 ## Docker create
 Docker 컨테이너 생성
-`docker create --name [컨테이너 이름] [이미지 이름]`
+```
+docker create --name [컨테이너 이름] [이미지 이름]
+```
 
 ```
 docker create --name nginx-1 nginx
@@ -33,13 +41,18 @@ eunbi@EUNBI-KIM:~/Docker$ docker ps -a
 CONTAINER ID   IMAGE         COMMAND                  CREATED              STATUS                          PORTS     NAMES
 cfbb339677e9   nginx         "/docker-entrypoint.…"   About a minute ago   Created   
 ```
----
+
 ## Docker start / stop
 생성한 컨테이너 실행(start) : STATUS = UP
-`docker start [이미지 이름]`
+```
+docker start [이미지 이름]
+```
 
 생성한 컨테이너 종료(stop) : STATUS = Exited
-`docker stop [이미지 이름]`
+```
+docker stop [이미지 이름]
+```
+
 
 ```
 docker start nginx-1 #nginx-1 컨테이너 실행
@@ -51,7 +64,9 @@ docker stop cfbb33 #nginx-1 container id로 컨테이너 종료
 
 
 ## Docker run 
-컨테이너 생성 및 실행 `docker run [옵션] [이미지 이름]`
+컨테이너 생성 및 실행 
+```docker run [옵션] [이미지 이름]
+```
 - docker run을 수행할 경우, docker create > docker start 를 수행한 것과 같음
 
 - 많이 사용하는 옵션
