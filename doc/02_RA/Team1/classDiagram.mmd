@@ -1,0 +1,47 @@
+classDiagram
+    class Boundary {
+        <<Boundary>>
+        화면
+        과목불러오기()
+    }
+
+    class Control {
+        <<Control>>
+        등록(Insert)
+        삭제(Delete)
+        변경(Update)
+        정렬(Sort)
+        보기(on/off)
+        로그인()
+    }
+
+    class 학생 {
+        <<Entity>>
+        - 학생명: String
+        - ID: String
+        - PW: String
+    }
+
+    class 과목 {
+        <<Entity>>
+        - 과목명: String
+        - 담당교수: String
+        - 강의요일: String
+        - 강의시간: String
+        - 수강년도: Int
+        - 수강학기: Int
+    }
+
+    class Todo {
+        <<Entity>>
+        - 항목명: String
+        - 마감기한: Date
+        - 실제마감일: Date
+        - 완료여부: Boolean
+        - 중요여부: Boolean
+    }
+
+    Boundary --> Control : interacts
+    Control --> 학생 : manages
+    Control --> 과목 : manages
+    Control --> Todo : manages
