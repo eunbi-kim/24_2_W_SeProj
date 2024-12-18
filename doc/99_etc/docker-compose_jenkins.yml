@@ -1,0 +1,15 @@
+version: "3"
+services:
+  jenkins:
+    image: jenkins/jenkins:2.462.2
+    restart: always # 항상 재시작하도록 설정
+    container_name: jenkins
+    privileged: true
+    user: root
+    ports:
+      - 8080:8080
+      - 50000:50000
+    volumes:
+      - ./jenkins_home:/var/jenkins_home  #host dir:container 내부 dir 
+      - /var/run/docker.sock:/var/run/docker.sock  # Docekr 소켓 공유
+      # 컨테이너 삭제 후에도 데이터가 유지되도록 설정 (volumes)
